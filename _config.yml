@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: 我的设计与生活足迹 # add your name
+author: 设计与生活 # add your name
 author-pic: adam-face.jpg
 about-author: 大家好，我是升谦道，一名设计师，这是我的个人网页，涉足设计4年多了。在这里想分享一点好的精华，多多指教！
 
