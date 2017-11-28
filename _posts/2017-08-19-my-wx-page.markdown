@@ -19,6 +19,7 @@ author: # Add name author (optional)
 `有意思`
 >收录一些有意思的东西
 1. [【遗忘】敦煌 · 电影]
+2. [【遗忘】了凡四训 · 电影]
 
 &nbsp;
 &nbsp;
@@ -31,3 +32,4 @@ author: # Add name author (optional)
 [【文化】夏蟲國 · 动画短篇]:   http://mp.weixin.qq.com/s/NgfF2c5qPnCOLEbYHGshsA
 
 [【遗忘】敦煌 · 电影]: http://mp.weixin.qq.com/s/FDH28zcjok9BramJ7gTtvg
+[【遗忘】了凡四训 · 电影]: http://mp.weixin.qq.com/s/m-PMCJ4P6UxPORnhzLplcw
