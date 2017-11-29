@@ -8,6 +8,13 @@ tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
 
+`设计`
+>内容以专业设计为准，增加设计的见识与灵感。
+1. [【设计】法国巴黎顶级香氛艺术品牌 · 橱窗设计历程]
+
+&nbsp;
+&nbsp;
+
 `基础文化`
 >成熟的设计，一定的文化基础是必要的，以下是作者摘录的一些有意思的东西，也是希望积少成多、对生活和设计有所帮助
 1. [【文化】莫高霞光 · 动画短篇]
@@ -26,7 +33,7 @@ author: # Add name author (optional)
 
 
 
-
+[【设计】法国巴黎顶级香氛艺术品牌 · 橱窗设计历程]: http://mp.weixin.qq.com/s/RU5oZ1sDxj-xvIOq5A-6aA
 
 [【文化】莫高霞光 · 动画短篇]: http://mp.weixin.qq.com/s/UfksKAi1Ye9rmfSlPfb1Pw
 [【文化】夏蟲國 · 动画短篇]:   http://mp.weixin.qq.com/s/NgfF2c5qPnCOLEbYHGshsA
