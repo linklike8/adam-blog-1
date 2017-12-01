@@ -11,6 +11,7 @@ author: # Add name author (optional)
 `设计`
 >内容以专业设计为准，增加设计的见识与灵感。
 1. [【设计】法国巴黎顶级香氛艺术品牌 · 橱窗设计历程]
+2. [【设计】生命本来就是路过而已 · 山本耀司]
 
 &nbsp;
 &nbsp;
@@ -34,6 +35,7 @@ author: # Add name author (optional)
 
 
 [【设计】法国巴黎顶级香氛艺术品牌 · 橱窗设计历程]: http://mp.weixin.qq.com/s/RU5oZ1sDxj-xvIOq5A-6aA
+[【设计】生命本来就是路过而已 · 山本耀司]:http://mp.weixin.qq.com/s/TIDj8cSqoXWcaaah3XWSgw
 
 [【文化】莫高霞光 · 动画短篇]: http://mp.weixin.qq.com/s/UfksKAi1Ye9rmfSlPfb1Pw
 [【文化】夏蟲國 · 动画短篇]:   http://mp.weixin.qq.com/s/NgfF2c5qPnCOLEbYHGshsA
