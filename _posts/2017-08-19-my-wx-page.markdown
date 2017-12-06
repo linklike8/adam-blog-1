@@ -3,7 +3,7 @@ layout: post
 title: 灵海创意 - 目录
 date: 2017-08-19 20:01:20 +0300
 description: 收录了一些本人订阅号的文章目录，放在本站方便查看. # Add post description (optional)
-img: http://img1.ph.126.net/12bXsvspysPdwuEXLVvYOg==/1273674269635170538.jpg # Add image post (optional)
+img: http://album.sina.com.cn/pic/002ysGSezy7gndRv8dld3 # Add image post (optional)
 tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
