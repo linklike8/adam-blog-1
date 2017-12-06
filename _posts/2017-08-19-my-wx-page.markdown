@@ -3,7 +3,7 @@ layout: post
 title: 灵海创意 - 目录
 date: 2017-08-19 20:01:20 +0300
 description: 收录了一些本人订阅号的文章目录，放在本站方便查看. # Add post description (optional)
-img: http://imglf0.ph.126.net/XTvgc8-HdcOnecSN-ILSag==/1033576114500771849.jpg # Add image post (optional)
+img: http://mail.126.com/js6/compose/preview.jsp?sid=NBcnlRREUkYcVxUXDBEEJvJSnEEYfmwE&uid=jimjimgood@126.com&host=mail.126.com&ver=js6&fontface=yahei&style=1&skin=freshgreen&color=138144&call=window.opener.ComposeCall1512566404730_c.f1512566434069 # Add image post (optional)
 tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
