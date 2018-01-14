@@ -11,6 +11,7 @@ author: # Add name author (optional)
 [![IMAGE ALT TEXT](https://mmbiz.qpic.cn/mmbiz_jpg/bRibaS4CTZ8woV8ykcppl3QUWKGYlXXLwACa3vS8hibibQ85MWFlhibxPibDsDfcWPoMmiaewvAQpKP9N4jSa7UZzkew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
 
 `原著`
+>了凡四训
 [《第一篇 立命之学》]
 [《第二篇 改过之法》]
 [《第三篇 积善之方》]
