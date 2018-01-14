@@ -8,7 +8,7 @@ tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
 
-![IMAGE ALT TEXT](http://s1.sinaimg.cn/orignal/002ysGSezy7hmRs9h1m70](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
+[![IMAGE ALT TEXT](http://s1.sinaimg.cn/orignal/002ysGSezy7hmRs9h1m70](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
 
 `原著`
 >了凡四训
