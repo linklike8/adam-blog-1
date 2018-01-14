@@ -8,5 +8,18 @@ tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
 
-[![IMAGE ALT TEXT](http://album.sina.com.cn/pic/002ysGSezy7gnf5DK5F0f)](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
+[![IMAGE ALT TEXT](https://mmbiz.qpic.cn/mmbiz_jpg/bRibaS4CTZ8woV8ykcppl3QUWKGYlXXLwACa3vS8hibibQ85MWFlhibxPibDsDfcWPoMmiaewvAQpKP9N4jSa7UZzkew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
 
+`原著`
+[《第一篇 立命之学》]
+[《第二篇 改过之法》]
+[《第三篇 积善之方》]
+[《第四篇 谦德之效》]
+
+&nbsp;
+&nbsp;
+
+[《第一篇 立命之学》]: http://mp.weixin.qq.com/s/o7KhUNI8g3T_GAcP5bJVrQ
+[《第二篇 改过之法》]: http://mp.weixin.qq.com/s/Yw1QGKcAU3xbchS4qZuhgQ
+[《第三篇 积善之方》]: http://mp.weixin.qq.com/s/EYwJe2uqMrNEsum__VOzew
+[《第四篇 谦德之效》]: http://mp.weixin.qq.com/s/bz57CM0ld-_0583RpZ2Dsw
