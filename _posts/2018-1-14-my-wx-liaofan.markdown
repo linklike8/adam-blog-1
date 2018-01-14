@@ -3,12 +3,12 @@ layout: post
 title: 了凡四训原著+电影
 date: 2017-08-19 20:01:20 +0300
 description: . # Add post description (optional)
-img:  # Add image post (optional)
+img:http://album.sina.com.cn/pic/002ysGSezy7hmR988L83a  # Add image post (optional)
 tags: [微信公众号目录]
 author: # Add name author (optional)
 ---
 
-[![IMAGE ALT TEXT](https://mmbiz.qpic.cn/mmbiz_jpg/bRibaS4CTZ8woV8ykcppl3QUWKGYlXXLwACa3vS8hibibQ85MWFlhibxPibDsDfcWPoMmiaewvAQpKP9N4jSa7UZzkew/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
+[![IMAGE ALT TEXT](http://album.sina.com.cn/pic/002ysGSezy7hmR988L83a](http://video.tudou.com/v/XMTc4NjEwODQ4MA==.html "CameraMaster")
 
 `原著`
 >了凡四训
